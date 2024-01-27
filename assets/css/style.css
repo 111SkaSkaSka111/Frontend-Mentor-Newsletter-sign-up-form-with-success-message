@@ -157,6 +157,7 @@
     color: #fff;
     border: none;
     font-size: 1rem;
+    cursor: pointer;
 }
 
 .card .left form button:hover {
@@ -210,6 +211,7 @@
     border: none;
     background: var(--Dark-Slate-Grey);
     color: #fff;
+    cursor: pointer;
 }
 
 @media (max-width: 500px) {
